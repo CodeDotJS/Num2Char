@@ -1,2 +1,7 @@
-# number-to-character
-takes "numbers" as input and convert into a "character".
+# Num2Char
+
+> Convert 'numbers' to readable 'characters'
+
+# Example 
+
+- 22 : Twenty Two
